@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  SeacrBar
+//  SearchBar
 //
 //  Created by Jonathan Rudderham on 10/03/2022.
 //
